@@ -1,0 +1,2 @@
+# Electric-Vehicle-Energy-Consumption-Simulation-using-MATLAB-Ideal-Model-vs-UDDS-Drive-Cycle
+This project provides a numerical framework for estimating the energy consumption of a Battery Electric Vehicle (BEV) through a backward-facing modeling approach. The simulation is built on the fundamental tractive force requirements, accounting for aerodynamic drag, rolling resistance, and inertial loads.
