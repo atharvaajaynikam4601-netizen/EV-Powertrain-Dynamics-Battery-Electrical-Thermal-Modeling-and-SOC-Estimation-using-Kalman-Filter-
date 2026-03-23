@@ -1,4 +1,4 @@
-# EV Powertrain Dynamics, Battery Electrical & Thermal Analysis using UDDS Drive Cycle
+# EV Powertrain Dynamics using UDDS Drive Cycle, Battery Electrical & Thermal Analysis using Kalman Filter
 
 ## Abstract
 
